@@ -1,3 +1,22 @@
+Đã hoàn thành:
+	Xử lí tiền dữ liệu
+	PHát hiện Outlier
+	Trực quan hoá
+	Vẽ biểu đồ
+Chưa hoàn thành:
+	Pao poi
+	Phân công công việc
+Khai phá:
+	Kmeans(hoàn thành)
+	DBSCAN(hoàn thành)
+	So sánh DBSCAN và KMeans(chưa hoàn thành)
+	
+	FPGrowth(Hoàn thành)
+	Apriori(chưa hoàn thành)	
+	So sánh FPGrowth và Apriori(về thời gian chạy, về kết quả)(chưa hoàn thành)
+	So sánh với min_support khác nhau(chưa hoàn thành)
+
+
 Giá bán của cả 2 năm và so sánh
 Giá bán theo từng tháng của cả 2 năm và vẽ thành biểu đồ (2 biểu đồ, trục y là giá, trục x là năm)
 Tại sao giá lớn nhất và thấp nhất của 1 sản phẩm lại chênh nhau nhiều như vậy?(Khoảng cách, mua tại xưởng,...). Tìm xem sản phẩm A có transaction T1 là giá cao thì sản phẩm B có transaction T1 có cao như vậy không?
@@ -6,3 +25,7 @@ Tại sao giá lớn nhất và thấp nhất của 1 sản phẩm lại chênh 
 Gom cụm khách hàng để tìm ra khách hàng vip, duyệt mỗi sản phẩm, ai mua với giá thấp hơn thì coi như là víp
 Tính tổng giá tiền của mỗi khách hàng để tìm ra phân khúc, ai mua nhiều ai mua ít DBSCAN hoặc Kmeans
 Gom cụm khách hàng theo sản phẩm(chưa rõ lắm)
+
+
+
+Thuật toán nào hiệu quả hơn:
